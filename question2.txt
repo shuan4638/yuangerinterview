@@ -1,0 +1,13 @@
+12 3
+buy 100
+buy 100
+buy 100
+buy 100
+buy 99
+read
+read
+read
+buy 99
+buy 98
+read
+read
